@@ -39,3 +39,11 @@ luac.out
 *.x86_64
 *.hex
 
+# Rmd and md files (I use some of them for documentation)
+*.Rmd
+*.R
+*.md
+
+# All those folders:
+Fexi
+logs
